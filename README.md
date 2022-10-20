@@ -1,6 +1,6 @@
 # Bitcoin_Address_Clustering
 Bitcoin Address Clustering Coding
-目录
+
 1.创建全局变量
 
 2.安装python包
